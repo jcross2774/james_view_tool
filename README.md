@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JamesViewTool::Renderer.copyright 'James Cross', 'All rights reserved'
+```
 
 ## Development
 
